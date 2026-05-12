@@ -694,5 +694,9 @@ class GameManager:
 #  실행
 # ============================================================
 if __name__ == "__main__":
-    preset = character_select()
-    GameManager(preset).run()
+    try:
+        main()
+    except Exception as e:
+        st.error(f"렌더링 에러: {e}")
+        import traceback
+        st.code(traceback.format_exc())
