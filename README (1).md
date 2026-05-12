@@ -10,7 +10,7 @@
 
 ## 🎮 데모
 
-🔗 **[웹에서 바로 플레이하기](https://본인앱URL.streamlit.app)** ← *배포 후 본인 URL로 교체*
+🔗 **🔗 [웹에서 바로 플레이하기](https://oopprojectv2-i3hujwqdrg7mmstv3rfkwf.streamlit.app)** ← *배포 후 본인 URL로 교체*
 
 > 캐릭터 선택 → 자동 시나리오 배정 → 7일 위기관리 → 멀티엔딩 분기
 
